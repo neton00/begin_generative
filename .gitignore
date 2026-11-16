@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+week12/outputs/
+week13/outputs/
+tmp/
